@@ -45,13 +45,13 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
+$ git clone https://github.com/Meta-Zuck/premium  
 ```
 #### ⇨  Run Script
 ```
 $ cd premium  
 $ git pull  
-$ python premium.py  
+$ python run.py  
 ```
 #### ⇨  Information
 ```
